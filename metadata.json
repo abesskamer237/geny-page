@@ -1,0 +1,6 @@
+{
+  "name": "Geny · Espace revendeurs",
+  "description": "Portail revendeur Geny : vente de codes d’activation, paiements Mobile Money et espace API partenaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
